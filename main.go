@@ -17,7 +17,6 @@ import (
 	// _ "github.com/Monibuca/plugin-ffmpeg"
 	_ "github.com/Monibuca/plugin-gateway/v3"
 
-	_ "github.com/Monibuca/plugin-summary"
 	_ "github.com/Monibuca/plugin-gb28181/v3"
 	_ "github.com/Monibuca/plugin-hdl/v3"
 	_ "github.com/Monibuca/plugin-hls/v3"
@@ -26,6 +25,7 @@ import (
 	_ "github.com/Monibuca/plugin-record/v3"
 	_ "github.com/Monibuca/plugin-rtmp/v3"
 	_ "github.com/Monibuca/plugin-rtsp/v3"
+	_ "github.com/Monibuca/plugin-summary"
 	_ "github.com/Monibuca/plugin-ts/v3"
 	_ "github.com/Monibuca/plugin-webrtc/v3"
 )
